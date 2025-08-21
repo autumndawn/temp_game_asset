@@ -1,0 +1,16 @@
+{
+  "name": "zombie102",
+  "frameRate": 30,
+  "duration": 0.26666666666666666,
+  "loop": true,
+  "frames": [
+    "bat_zombie003_0.png",
+    "bat_zombie003_1.png",
+    "bat_zombie003_2.png",
+    "bat_zombie003_3.png",
+    "bat_zombie003_4.png",
+    "bat_zombie003_5.png",
+    "bat_zombie003_6.png",
+    "bat_zombie003_7.png"
+  ]
+}

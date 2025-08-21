@@ -1,0 +1,16 @@
+{
+  "name": "zombie3004",
+  "frameRate": 30,
+  "duration": 0.5,
+  "loop": true,
+  "frames": [
+    "zombie-zombie38-walk_0.png",
+    "zombie-zombie38-walk_1.png",
+    "zombie-zombie38-walk_2.png",
+    "zombie-zombie38-walk_3.png",
+    "zombie-zombie38-walk_4.png",
+    "zombie-zombie38-walk_5.png",
+    "zombie-zombie38-walk_6.png",
+    "zombie-zombie38-walk_7.png"
+  ]
+}

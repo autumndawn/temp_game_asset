@@ -1,0 +1,14 @@
+{
+  "name": "zombie2008",
+  "frameRate": 30,
+  "duration": 0.36666666666666664,
+  "loop": true,
+  "frames": [
+    "zombie815_0.png",
+    "zombie815_1.png",
+    "zombie815_2.png",
+    "zombie815_3.png",
+    "zombie815_4.png",
+    "zombie815_5.png"
+  ]
+}

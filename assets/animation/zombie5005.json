@@ -1,0 +1,14 @@
+{
+  "name": "zombie5005",
+  "frameRate": 30,
+  "duration": 0.36666666666666664,
+  "loop": true,
+  "frames": [
+    "poison-zombie5005_0.png",
+    "poison-zombie5005_1.png",
+    "poison-zombie5005_2.png",
+    "poison-zombie5005_3.png",
+    "poison-zombie5005_4.png",
+    "poison-zombie5005_5.png"
+  ]
+}
